@@ -1,0 +1,1 @@
+1. https://www.chessprogramming.org . It has the evaluation functions which I referred to.

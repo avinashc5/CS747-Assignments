@@ -1,0 +1,21 @@
+{
+    "Task1Agent": {
+        "wins_white": 28,
+        "wins_black": 30,
+        "total_wins": 58,
+        "total_time": 6.36614342701796,
+        "moves": 1674,
+        "avg_time": 0.003802953062734743
+    },
+    "RandomAgent": {
+        "wins_white": 0,
+        "wins_black": 0,
+        "total_wins": 0,
+        "total_time": 0.34276613674592227,
+        "moves": 1648,
+        "avg_time": 0.0002079891606467975
+    },
+    "draws": 42,
+    "avg_game_length": 16.0,
+    "avg_game_length_plies": 33.22
+}

@@ -1,0 +1,4 @@
+Configuration:
+18
+26
+1 2 3

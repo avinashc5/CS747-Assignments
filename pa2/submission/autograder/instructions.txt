@@ -1,0 +1,18 @@
+Paste your planner, encoder, decoder files into this folder.
+Then to run autograder for
+
+Part1:
+To test HPI:
+python3 autograder.py --task 1 --algorithm hpi --planner planner.py
+To test LP:
+python3 autograder.py --task 1 --algorithm lp --planner planner.py
+
+Part 2:
+python3 autograder.py --task 2 --planner planner.py --encoder encoder.py --decoder decoder.py
+
+Score Calculation:
+Task1 Score = (Public_HPI + Public_LP + Private_HPI + Private_LP)/2
+
+Task2 Score = Public_score + Private_score 
+
+Total Score = Task1 Score + Task2 Score + Report Score

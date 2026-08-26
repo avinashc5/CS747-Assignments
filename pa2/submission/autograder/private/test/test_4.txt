@@ -1,0 +1,15 @@
+Configuration:
+18
+26
+1 2 3
+Testcase:
+6H 8D
+1D 2D 3H 5D 5H
+1D 2D 11H
+1H 1D 2D 2H 8D
+6D 7D
+1H 1D 2H 3D 10D
+4D 4H 5H
+3H 5D 8D
+2D 12H
+1H 2H 2D 4D

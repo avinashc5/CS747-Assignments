@@ -1,0 +1,15 @@
+Configuration:
+23
+13
+1 2 3
+Testcase:
+1D 1H 2H 5D 5H 6D
+4H 6D 10H
+2H 3D 3H 4H
+1H 1D 6D 6H 7D
+2H 4H 5H 11H
+
+1H 4H 5H 6H
+1H 4D 6H 6D
+3D 3H 4H 5H 5D
+1D 2D 2H 7D

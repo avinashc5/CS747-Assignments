@@ -1,0 +1,28 @@
+Step 1: Install the correct version of python in your system. See the link provided on the assignment webpage.
+
+Step 2: (NOTE: Windows users must use powershell for this.)
+	Create a virtual environment using the following steps: 
+
+	- cd into the "code" directory you just downloaded.
+	- pip install virtualenv
+	- (macOS/Linux only) chmod +x create_venv.sh
+	- Run create_venv.sh (macOS/Linux) or create_venv.ps1 (Windows) from the "code" directory.
+	- When prompted, enter the path to your python 3.9.6 executable.
+
+[To find the path type the following to your command line: "which python" (macOS/Linux), "where python" (Windows). 
+For Windows, if that does not work, use "python -c "import os, sys; print(os.path.dirname(sys.executable))" and append '\python.exe' to the obtained address.
+Example Output: /Library/Frameworks/Python.framework/Versions/3.9/bin/python3.9]
+
+ 
+Once created, activate using the following: 
+
+	- (macOS/Linux)
+		source env747/bin/activate
+	- (Windows) 
+		path\to\env747\Scripts\Activate.ps1
+	
+Your environment is ready!
+
+Deactivate using the following:
+
+	- deactivate

@@ -1,0 +1,4 @@
+Configuration:
+26
+23
+6 7 8
